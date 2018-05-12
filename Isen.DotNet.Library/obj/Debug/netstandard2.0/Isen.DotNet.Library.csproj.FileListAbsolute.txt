@@ -1,0 +1,18 @@
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\bin\Debug\netstandard2.0\Isen.DotNet.Library.deps.json
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\bin\Debug\netstandard2.0\Isen.DotNet.Library.dll
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\bin\Debug\netstandard2.0\Isen.DotNet.Library.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.csproj.CoreCompileInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.AssemblyInfoInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.AssemblyInfo.cs
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.dll
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.csprojResolveAssemblyReference.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\bin\Debug\netstandard2.0\Isen.DotNet.Library.deps.json
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\bin\Debug\netstandard2.0\Isen.DotNet.Library.dll
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\bin\Debug\netstandard2.0\Isen.DotNet.Library.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.csprojResolveAssemblyReference.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.csproj.CoreCompileInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.AssemblyInfoInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.AssemblyInfo.cs
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.dll
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Library\obj\Debug\netstandard2.0\Isen.DotNet.Library.pdb

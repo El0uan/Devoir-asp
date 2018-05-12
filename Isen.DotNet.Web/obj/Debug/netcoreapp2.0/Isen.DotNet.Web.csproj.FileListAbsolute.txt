@@ -1,0 +1,26 @@
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.deps.json
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.runtimeconfig.json
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.runtimeconfig.dev.json
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.dll
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Library.dll
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Library.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.csproj.CoreCompileInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.AssemblyInfoInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.AssemblyInfo.cs
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.dll
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Isen.Dotnet\AspNetCore20\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.csprojResolveAssemblyReference.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.deps.json
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.runtimeconfig.json
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.runtimeconfig.dev.json
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.dll
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Web.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Library.dll
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\bin\Debug\netcoreapp2.0\Isen.DotNet.Library.pdb
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.csprojResolveAssemblyReference.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.csproj.CoreCompileInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.AssemblyInfoInputs.cache
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.AssemblyInfo.cs
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.dll
+C:\Users\eloua\Documents\Cours\dotnet\Devoir ASP\Isen.DotNet.Web\obj\Debug\netcoreapp2.0\Isen.DotNet.Web.pdb

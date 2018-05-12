@@ -1,0 +1,50 @@
+@using Isen.DotNet.Library.Models.Implementation;
+@using Isen.DotNet.Library.Repositories.Interfaces;
+@{
+    ViewData["Title"] = "Address (détail)";
+}
+@inject ICommuneRepository _communeRepository;
+@model Address
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Home <small>/commune/detail</small></h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form class="form-horizontal" asp-action="Detail">
+            <input type="hidden" value="@Model?.Id" asp-for="Id" />
+            <div>
+                <label for="Text" class="control-label">Texte :</label>
+                <input type="text" class="form-control"
+                    id="Text" placeholder="Texte"
+                    value="@Model?.Text" asp-for="Text" />
+            </div>
+            <div>
+                <label for="Code" class="control-label">Code Postal : </label>
+                <input type="number" class="form-control"
+                    id="Code" placeholder="Code"
+                    value="@Model?.Code" asp-for="Code" />
+            </div>
+            <div>
+                <label for="CommuneId">
+                    Commune
+                </label>
+                @Html.DropDownListFor(
+                    p => p.Commune,
+        
+                    new SelectList(
+                        _communeRepository.GetAll(), 
+                        "Id", 
+                        "Name"),
+                    "<Sélectionnez une Commune>",
+                    new { @class = "form-control" })
+            </div>
+            <br />
+            <input type="submit" class="btn btn-primary" value="Valider" />
+            <a class="btn btn-default" 
+                asp-controller="Address" asp-action="Index">Annuler</a>
+        </form>
+    </div>
+</div>
